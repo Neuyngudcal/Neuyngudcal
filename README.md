@@ -43,8 +43,7 @@
 
 ## 📊 GitHub Stats
 <p align="center"> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Neuyngudcal&show_icons=true&theme=radical&count_private=true" alt="Du's Stats" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neuyngudcal&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neuyngudcal&theme=radical" alt="Du's Streak" />
 </p>
 
 ## 📬 Contact me

@@ -43,8 +43,8 @@
 
 ## 📊 GitHub Stats
 <p align="center"> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" alt="Du's Stats" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Neuyngudcal&show_icons=true&theme=radical&count_private=true" alt="Du's Stats" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neuyngudcal&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 📬 Contact me
